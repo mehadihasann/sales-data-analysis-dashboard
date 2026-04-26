@@ -36,5 +36,6 @@ This project analyzes sales data to identify trends, top-performing products, an
 
 \- images/
 
-
+## Dashboard Preview
+![Dashboard](images/dashboard.png)
 
