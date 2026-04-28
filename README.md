@@ -23,11 +23,11 @@ This project analyzes sales data to identify trends, top-performing products, an
 
 \## Key Insights
 
-\- Sales show a steady upward trend, with a peak in the final quarter indicating seasonal demand.
+\- Technology is the top-performing category, contributing the largest share of total sales.
 
 \- The West region generates the highest revenue, suggesting strong market performance in that area.
 
-\- Technology is the top-performing category, contributing the largest share of total sales.
+\- Sales show a steady upward trend, with a peak in the final quarter indicating seasonal demand.
 
 \- A small number of products account for a large portion of revenue, highlighting dependency on key items.
 
