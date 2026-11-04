@@ -23,12 +23,14 @@ Full reasoning, code, and charts: [`sales-dashboard-project/notebook/analysis.ip
 
 ## Analysis charts
 
-| | |
-|---|---|
-| ![Yearly growth](sales-dashboard-project/images/yearly_growth.png) | ![Category mix](sales-dashboard-project/images/category_mix.png) |
-| ![Category CAGR](sales-dashboard-project/images/category_cagr.png) | ![Seasonality](sales-dashboard-project/images/seasonality.png) |
-| ![Sub-categories](sales-dashboard-project/images/subcategories.png) | ![Top states](sales-dashboard-project/images/top_states.png) |
-| ![Fulfilment](sales-dashboard-project/images/fulfillment.png) | ![Regions](sales-dashboard-project/images/region.png) |
+All eight charts render inline in the notebook - open [`sales-dashboard-project/notebook/analysis.ipynb`](sales-dashboard-project/notebook/analysis.ipynb) to see them alongside the code that produced them:
+
+- Yearly revenue and order growth (dual axis)
+- Category revenue mix (donut) and category CAGR bars
+- Monthly seasonality index
+- Top 10 sub-categories and top 10 states
+- Fulfilment time by ship mode
+- Regional revenue and average order value
 
 ## Dashboard previews (Power BI)
 
